@@ -106,11 +106,14 @@ write_verilog -noattr good_mux_netlist.v
 ```
 
 ### Screenshots - Synthesis
-![Open Lib File in Yosys](images/day1/day1_lab3in the yosys open the lib file.PNG)
-![Yosys Synthesis](images/day1/lab3_inwok_yosys.PNG)
-![Show Schematic](images/day1/day1_lab_3_show.PNG)
-![Netlist Generation](images/day1/day1_lab_3netlist_generaTion.PNG)
-![Netlist No Attr](images/day1/day1_lab_3_noattr.PNG)
+![Open verilog file ](images/open_verilog file_.PNG)
+![GTK wave of the good mux](images/gtk wave of the good mux.PNG)
+![gvim file ](images/file gvim show.PNG)
+![open yosys](images/lab3_inwok_yosys.PNG)
+![Netlist Generation ](images/day_1_lab_3_netlist generation.PNG)
+![Netlist Output ](images/day1_lab_3_show.PNG)
+![Netlist No atrr ](images/day1_lab_3_noattr.PNG)
+
 
 ### 7. Key Concepts Learned
 | Concept | Meaning |
