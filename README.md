@@ -6,7 +6,7 @@
 
 ### Synthesis Flow (Yosys)
 ![Open Lib File in Yosys](images/day1/day1_lab3in the yosys open the lib file.PNG)
-![Yosys Synthesis](images/day1/lab3_inwok_yosys.PNG)
+![Yosys Synthesis](images/day1_lab3_good_mux.PNG)
 ![Show Schematic](images/day1/day1_lab_3_show.PNG)
 ![Netlist Generation](images/day1/day1_lab_3netlist_generaTion.PNG)
 ![Netlist No Attr](images/day1/day1_lab_3_noattr.PNG)
