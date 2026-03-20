@@ -124,11 +124,3 @@ write_verilog -noattr good_mux_netlist.v
 | `a.out` | Compiled simulation output |
 | sky130 | Google/Skywater 130nm technology |
 
-### 8. Important Mistakes to Avoid
-| Wrong | Correct |
-|-------|---------|
-| `my_lib` | `cd my_lib` |
-| `synth_top` | `synth -top` |
-| `../mylib/lib/` | `../lib/` |
-| `025c` | `025C` (capital C) |
-| Running `abc` in terminal | Run `abc` inside yosys |
