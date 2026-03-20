@@ -60,8 +60,8 @@ gtkwave tb_good_mux.vcd
 ```
 
 ### Screenshots - Simulation
-![Open Verilog File](images/day1/open_verilog file_.PNG)
-![GTKWave Good Mux](images/day1/gtk wave of the good mux.PNG)
+![Open verilog file ](images/open_verilog file_.PNG)
+![GTK wave of the good mux](images/gtk wave of the good mux.PNG)
 
 ### 6. Synthesis Flow with Yosys
 
@@ -106,8 +106,6 @@ write_verilog -noattr good_mux_netlist.v
 ```
 
 ### Screenshots - Synthesis
-![Open verilog file ](images/open_verilog file_.PNG)
-![GTK wave of the good mux](images/gtk wave of the good mux.PNG)
 ![gvim file ](images/file gvim show.PNG)
 ![open yosys](images/lab3_inwok_yosys.PNG)
 ![Netlist Generation ](images/day_1_lab_3_netlist generation.PNG)
