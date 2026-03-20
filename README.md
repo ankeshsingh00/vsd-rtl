@@ -106,9 +106,9 @@ write_verilog -noattr good_mux_netlist.v
 ```
 
 ### Screenshots - Synthesis
-![gvim file ](images/file gvim show.PNG)
+![gvim file ](images/file gvim_show.PNG)
 ![open yosys](images/lab3_inwok_yosys.PNG)
-![Netlist Generation ](images/day_1_lab_3_netlist generation.PNG)
+![Netlist Generation ](images/day_1_lab_3_netlist_generation.PNG)
 ![Netlist Output ](images/day1_lab_3_show.PNG)
 ![Netlist No atrr ](images/day1_lab_3_noattr.PNG)
 
